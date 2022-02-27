@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the army concerning the citizens of London: wherein is discovered, their present and great designes in hand against the said city; and their resolution to draw most of their horse and foot from all parts of the kingdom, to advance for London, with the time perfixed when they intend to enter the said city. Also, their demands and proposals, concerning all those who have inrich'd themselves by the vast sums of money, and assesments, collected for the payment of the souldiery, and their resolution to have an account given thereof, and to prosecute the same with the hazard of all thier lives and fortunes. Likewise, the design of Lieut. Generall Cromwel, touching the King, Parliament, city, and kingdome. Published for general satisfaction, by a gentleman who came lately from St. Albanes, whose surname and chrisned name begins with the ninth letter of the Greek alphabet.</title>
+            <author>J. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87475</idno>
+            <idno type="STC">Wing J18</idno>
+            <idno type="STC">Thomason E473_36</idno>
+            <idno type="STC">ESTC R205348</idno>
+            <idno type="EEBO-CITATION">99864753</idno>
+            <idno type="PROQUEST">99864753</idno>
+            <idno type="VID">116985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116985)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the army concerning the citizens of London: wherein is discovered, their present and great designes in hand against the said city; and their resolution to draw most of their horse and foot from all parts of the kingdom, to advance for London, with the time perfixed when they intend to enter the said city. Also, their demands and proposals, concerning all those who have inrich'd themselves by the vast sums of money, and assesments, collected for the payment of the souldiery, and their resolution to have an account given thereof, and to prosecute the same with the hazard of all thier lives and fortunes. Likewise, the design of Lieut. Generall Cromwel, touching the King, Parliament, city, and kingdome. Published for general satisfaction, by a gentleman who came lately from St. Albanes, whose surname and chrisned name begins with the ninth letter of the Greek alphabet.</title>
+                  <author>J. J.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.J.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou: 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116985:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>THE RESOLVTION OF THE ARMIE <hi>CONCERNING</hi> THE CITIZENS OF <hi>LONDON:</hi> Wherein is diſcovered, Their preſent and great Deſignes in hand againſt the ſaid City; and their reſolution to draw moſt of their Horſe and Foot from all parts of the Kingdom, to advance for <hi>London,</hi> with the time prefixed when they intend to enter the ſaid City.</p>
+            <p>ALSO, Their Demands and Propoſals, concerning all thoſe who have inrich'd themſelves by the vaſt ſums of money, and Aſſeſments, collected for the payment of the Soul<g ref="char:EOLhyphen"/>diery, and their reſolution to have an account given thereof, and to proſecute the ſame with the hazard of all their lives and fortunes.</p>
+            <p>
+               <date>
+                  <add>Nou: 28</add>
+               </date>
+            </p>
+            <p>LIKEWISE, The Deſign of Lieut. Generall <hi>Cromwel,</hi> touching the King, Parliament, City, and Kingdome.</p>
+            <p>PVbliſhed for general ſatisfaction, by a Gentleman who came lately from St. <hi>Albanes,</hi> hoſe Surname and Chriſtned name begins with the ninth letter of the <hi>Greek</hi> Alphabet.</p>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116985:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>THE RESOLUTION OF THE ARMY, Concerning The Citizens of <hi>London;</hi> Wherein is diſcovered, their preſent Plots and Deſigns againſt the ſaid City, and the time prefixed for their marching up with the whole Army.</head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>HAving ſome ſixe dayes ſince undertaken a journey into the Country; and on my return being to paſſe through St. <hi>Albanes</hi> (the now Head-quarters of the Army) towards <hi>London:</hi> I there occaſionally fell into the company of an Offi<g ref="char:EOLhyphen"/>cer
+<pb n="2" facs="tcp:116985:3"/>
+               <!-- PDF PAGE 9 -->
+under Sir <hi>Thomas Fairfax,</hi> within his owne quar<g ref="char:EOLhyphen"/>ters; and ſo conſequently and generally into diſcourſe, in reference to the preſent times, and the preſent ma<g ref="char:EOLhyphen"/>nagement of affaires.</p>
+            <p>And becauſe the ſubject and ſcope of the Armies writings hath of late and more (eſpecially) reflected on the City of <hi>London</hi> (this Kingdoms Metropolis, and the honored place of my Nativity, and preſent re<g ref="char:EOLhyphen"/>ſidence) in the ſervice whereof (the glory of God, the Kings honour and Kingdoms peace intended) I ſhall moſt joyfully ſacrifice (what's deareſt unto me) my life. I did gladly apply my ſelfe (both to ſatisfie me concerning former reports, and not to be ignorant of future purpoſes) to enquiry into the Armies reſolu<g ref="char:EOLhyphen"/>tions, and conſulatory reſults; and (though with tacite internall contradictions, in the audite of their warlike Rhetorick) did ſeem to pace the ſteps of their infideli<g ref="char:EOLhyphen"/>ty, and inveterate diſloyalty, with the ſame earneſtneſſe and reſolution, and tinct of principle which becauſe not portending the leaſt of evils and miſchiefes) in the midſt of our ſtrong hopes, and this Kingdoms preſent and great expectation of an happy Peace) in all rela<g ref="char:EOLhyphen"/>tions <hi>(viz.)</hi> to King. Parliament, this City and King<g ref="char:EOLhyphen"/>dome: I could not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>beſides my particular relation to this famous City; which in all the branches thereof were a ſufficient obligation) but (as beyond that) out of my generall reſpect to the publike good; which I have hitherto purſued with my utmoſt induſtry and hazards: ſo (God willing) ſhall I conſtantly preferre beyond my own particular intereſts and relations; to diſcover (in the beſt manner, and to my beſt memory and remembrance) the ſame words and expreſſions
+<pb n="3" facs="tcp:116985:3"/>
+               <!-- PDF PAGE 9 -->
+as were then by him delivered as the generall ſe<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of the Army; therefore I ſhall ſpeak in the plurall num<g ref="char:EOLhyphen"/>ber. And indeed, that which is the moſt viſible in<g ref="char:EOLhyphen"/>ducement to me in committing this to publike view (it being a reall truth heard with my own cares, and deli<g ref="char:EOLhyphen"/>vered in the preſence of others) is the improvidence and neglect of this City, for the prevention of any ſuch imminent danger; and withall the peoples incre<g ref="char:EOLhyphen"/>dulity of any ſuch miſchievous plots and purpoſes to be performed; (notwithſtanding to be averred by ma<g ref="char:EOLhyphen"/>ny upon oath) and which report hath long blaz'd abroad.</p>
+            <p>We have a true rule in Latine, <hi>Praemonitus, Praemuni<g ref="char:EOLhyphen"/>tus,</hi> fore-warned and fore-armed; I wiſh we had long ſince been put into a poſture, that upon all occaſions it might appeare, we were ready to receive an Enemy without prejudice, or repell with advantage (which if it may be effected upon the true delivery of purpoſed approaches, and approaching dangers) I ſhall (not to trouble your Worſhip with a further preamble) pre<g ref="char:EOLhyphen"/>ſent you what was delivered by an Officer at his owne quarters to my ſelfe, which I conceive of high con<g ref="char:EOLhyphen"/>cernment in all reſpects, <hi>viz.</hi>
+            </p>
+            <p>My ſelfe asking how affaires ſtood in relation, and were like to ſucceed? this reply was preſently made without intermiſſion <hi>(viz.)</hi> that the Souldiery (<hi>viz.</hi> Sir <hi>Thomas</hi> his Army) had at preſent as great Deſigns in hand as ever were acted in this Kingdome: and that (however oppoſed or obſtructed) they were reſolved with the hazard of all their lives and intereſts, to pro<g ref="char:EOLhyphen"/>ſecute and perpetrate. What was particulariz'd are theſe.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:116985:4"/>
+               <!-- PDF PAGE 10 -->
+I. That in relation to the City of London, &amp;c. They well underſtood of the unequall ballance of affairs there; and how partially buſineſses (eſpecially generall) were managed and handled: and how great deceipt there was in the collection of monies, and who they were that most obſtructed the payment of the Souldiers: As alſo, that furthered the preſent Treaty (not allowed of by them.) To remedy all which, they do purpoſe (within a fortnight) to advance for <hi>London,</hi> with their whole force from all parts, and with this Parentheſis (that if <hi>Skippon</hi>prove but true, &amp;c.) which I leave to bet<g ref="char:EOLhyphen"/>ter capacities then my own for conſtruction.</p>
+            <p n="2">II. That relating to the Parliament, they were reſolved for a limited time of their diſsolution; &amp;c. well knowing what particular profits each man had reaped to him<g ref="char:EOLhyphen"/>ſelf: And who they were that did concur in obſtruct<g ref="char:EOLhyphen"/>ing the affairs of the Army (which ſtay they) have now wrought <hi>Englands</hi> freedome and liberty: and with all, not forgetting the Vote for the return of Sir <hi>William Waller,</hi> Collonel <hi>Maſſey,</hi> Sir <hi>John May<g ref="char:EOLhyphen"/>nard, &amp;c.</hi> and themſelves who ſtand impeach'd by the Army.</p>
+            <p n="3">III. In relation to the Treaty, they well underſtand of the con<g ref="char:EOLhyphen"/>junction
+<pb n="5" facs="tcp:116985:4"/>
+               <!-- PDF PAGE 10 -->
+of many against them and their affaires, and how things are carried in relation thereto, in oppo<g ref="char:EOLhyphen"/>ſition and diſreſpect to them.</p>
+            <p n="4">IV. That it is <hi>Cromwels</hi> work (before his advance) to ſettle Counties, and ſuch Officers, as are and may prove true to their deſignes; and may mannage buſineſſes accor<g ref="char:EOLhyphen"/>dingly as they ſhall proceed.</p>
+            <p n="5">V. That relating to an Act of Indempnity, they abhor and deteſt ſuch thoughts; reſolving ſeverity of juſtice to paſse on the greateſt, as well as meane st. perſon, &amp;c. in which, not doubting but moſt Counties would herein joyn with them; (if not) they would not the leſse pro<g ref="char:EOLhyphen"/>ſecute: with many ſuch like expreſsions, which among tedious diſcourſes, my weak memory could not retain.</p>
+            <p>
+               <hi>Right Worſhipfull,</hi>
+               <lb/>
+Wee have long ſince heard the vulgar report of the ſenſe of the Army, and (all along) in effect to the pre<g ref="char:EOLhyphen"/>cedent lines: I wiſh it had been ſooner credited, then had we been better provided.</p>
+            <p>What is here inſcribed, upon my life is true, my ſelf bein in diſcourſe; and the truth is, I ſhall not reſt in the bare preſentment of theſe lines to your ſelfe, and ſo happily in the communicating of them to the Ho<g ref="char:EOLhyphen"/>norable Common-Councell, but muſt beare them to
+<pb n="6" facs="tcp:116985:5"/>
+               <!-- PDF PAGE 11 -->
+publike view unalterable. I may happily run ſome hazard in the true ſubſcription of my name, yet can<g ref="char:EOLhyphen"/>not deſiſt: I ſhall glory to ſacrifice for the publike, and can truly ſay of my ſelf, as <hi>Plutarch</hi> in another caſe: <hi>Haud timeo mortem, ignem Maeriſque fluctus, atque turbines venti paratus tranſiere, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Right Worſhipfull,</hi>
+               <lb/>
+I beſeech you pardon the rudeneſſe and weakneſſe of my lines, and not wonder I have not paſs'd a cenſure, or annex'd a Comment; upon a known and common theam, there needs not the dictates of the Maſter. The Enemy hath ſpoken plainely, and intend to act as roughly: I have diſcharged my duty, in committing this to your hand and to the Preſſe: I leave it to every ſubject to explain. And (hereafter in all things to fur<g ref="char:EOLhyphen"/>ther the publike) ſhall gladly appear</p>
+            <closer>
+               <signed>Your Worſhips Servant: <hi>J. J.</hi>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>Adjuvari nihil dicitur qui nihil ſponte conatur.</q>
+               <bibl>Aug.</bibl>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
